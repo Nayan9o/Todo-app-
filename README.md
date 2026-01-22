@@ -14,7 +14,7 @@ A simple Todo Application built using React JS.
 - React JS
 - Vite
 - JavaScript
-- CSS
+- Tailwind CSS
 
 ## How to run project
 
